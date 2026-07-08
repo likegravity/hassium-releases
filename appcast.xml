@@ -3,6 +3,15 @@
     <channel>
         <title>Hassium</title>
         <item>
+            <title>1.1.4</title>
+            <pubDate>Wed, 08 Jul 2026 11:02:23 +0900</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/likegravity/hassium-releases/releases/download/v1.1.4/Hassium-1.1.4.dmg" length="3453433" type="application/octet-stream" sparkle:edSignature="Xas5eX5WU+Z8koCNOTCW55osQKw7LG+0xa+4arn0U4itc+m8nmWkr7j7MGL0e8JrJ8LSBOGMYH4K2PVifzXFDw=="/>
+        </item>
+        <item>
             <title>1.1.3</title>
             <pubDate>Wed, 08 Jul 2026 04:28:31 +0900</pubDate>
             <sparkle:version>6</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/likegravity/hassium-releases/releases/download/v1.1.2/Hassium-1.1.2.dmg" length="3426843" type="application/octet-stream" sparkle:edSignature="ZcPzb7cmRqiYsWurbn/9xXMGjPmlwQu0NArCetCN0W55KH+Au+wmMTVmkAi2agl97jEh+ldkYFTdNuv1Wx7ZAg=="/>
-        </item>
-        <item>
-            <title>1.1.1</title>
-            <pubDate>Wed, 08 Jul 2026 00:51:21 +0900</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/likegravity/hassium-releases/releases/download/v1.1.1/Hassium-1.1.1.dmg" length="3449374" type="application/octet-stream" sparkle:edSignature="WlFWTmld1/K5VIZDLtZ0WtK9Zw2YGp9K8pgR6K3aiG0OsDBzsjhMDvwrrr89+Ig2Lv3Sa3kcOhpxEF/2Na1FDg=="/>
         </item>
     </channel>
 </rss>
